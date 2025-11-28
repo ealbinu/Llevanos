@@ -1,0 +1,7 @@
+{
+  "name": "Llevanos.com",
+  "description": "Plataforma de conexión con transporte para eventos en México. Viaja a donde quieras, atravesando lo que sea.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
